@@ -9,3 +9,7 @@ Repositório criado para aprender os conceitos do Git e seu ciclo de vida local.
 - Projetos em desenvolvimento
 - Exemplos de versionamento
 - Histórico de mudanças
+
+## Tecnologias
+- Git
+- Versionamento
