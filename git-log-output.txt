@@ -1,0 +1,18 @@
+ATIVIDADE 2 - CICLO DE VIDA LOCAL
+================================
+
+Saída do comando: git log --oneline
+
+50469ac docs: add about file
+a6f46c1 docs: update README with technologies section
+375ffd2 chore: initial commit with README and gitignore
+
+Saída do comando: git log --oneline --graph
+
+* 50469ac (HEAD -> master) docs: add about file
+* a6f46c1 docs: update README with technologies section
+* 375ffd2 chore: initial commit with README and gitignore
+
+Total de commits: 3
+
+Data da submissão: 2026-10-05
