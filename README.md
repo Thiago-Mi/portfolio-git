@@ -16,4 +16,3 @@ Repositório criado para aprender os conceitos do Git e seu ciclo de vida local.
 
 ## Changelog
 - Secao de changelog adicionada
-Linha de teste experimental
