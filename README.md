@@ -13,3 +13,6 @@ Repositório criado para aprender os conceitos do Git e seu ciclo de vida local.
 ## Tecnologias
 - Git
 - Versionamento
+
+## Changelog
+- Secao de changelog adicionada
