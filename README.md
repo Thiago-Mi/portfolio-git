@@ -1,4 +1,4 @@
-# Portfolio Git - Projetos
+# Portfolio Git - Projetos e Habilidades
 
 Este é meu portfolio de projetos Git.
 
@@ -19,3 +19,6 @@ Repositório criado para aprender os conceitos do Git e seu ciclo de vida local.
 
 ## Meus Projetos
 - Portfolio Git (repositorio de estudo)
+
+## Habilidades
+- Git e GitHub
