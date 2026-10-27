@@ -1,4 +1,4 @@
-# Portfolio Git
+# Portfolio Git - Habilidades
 
 Este é meu portfolio de projetos Git.
 
@@ -16,3 +16,6 @@ Repositório criado para aprender os conceitos do Git e seu ciclo de vida local.
 
 ## Changelog
 - Secao de changelog adicionada
+
+## Habilidades
+- Git e GitHub
